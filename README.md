@@ -1,4 +1,4 @@
-# Valculadora v2
+# Calculadora v2
 
 Calculadora v2 é um projeto simples e funcional que permite realizar operações matemáticas básicas de maneira prática e direta. O objetivo é oferecer uma solução intuitiva e acessível para cálculos rápidos no dia a dia.
 
